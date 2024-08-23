@@ -1,0 +1,15 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="projeto_cad_usuarios.projeto_cad_usuarios.urls.app_cad_usuarios" />
+          <option value="projeto_cad_usuarios.app_cad_usuarios.models.Usuario.objects" />
+          <option value="cadastro_acesso.cadastro_acesso.urls.app_cadastro" />
+          <option value="djangoEstudo.djangoEstudo.urls.estudo" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
